@@ -303,4 +303,4 @@ Use the shell:
 ☤ Documentation
 ---------------
 
-Documentation resides over at [pipenv.org](https://pipenv.kennethreitz.org/en/latest/).
+Documentation resides over at [pipenv.kennethreitz.org](https://pipenv.kennethreitz.org/en/latest/).
